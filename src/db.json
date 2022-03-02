@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Event Example",
+      "date": "2021-03-04T23:28:56.782Z",
+      "location": "Event Location",
+      "shortDescription": "Short description 1 Edited",
+      "description": "This is the event description that appear in the event dedicated page"
+    },
+    {
+      "id": 2,
+      "name": "Event 2",
+      "date": "2021-05-12T23:28:56.782Z",
+      "location": "The park",
+      "shortDescription": "Short description 2",
+      "description": "aLorem2 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboriss nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 3,
+      "name": "Event 3",
+      "date": "2021-04-21T23:28:56.782Z",
+      "location": "Office",
+      "shortDescription": "Short description 3",
+      "description": "Lorem3 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "george@gmail.com",
+      "password": "pwdGeorge"
+    },
+    {
+      "id": "6afe522-ee3d-22b7-70fc-130fdee37755",
+      "email": "george@neurony.ro",
+      "password": "Paromix1"
+    }
+  ]
+}
